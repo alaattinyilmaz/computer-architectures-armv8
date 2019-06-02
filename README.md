@@ -33,7 +33,8 @@ https://bitbucket.org/HarryBroeders/legv8/wiki/Home
 This is the working link for toolchain download: https://releases.linaro.org/components/toolchain/binaries/7.1-2017.08/aarch64-elf/gcc-linaro-7.1.1-2017.08-i686-mingw32_aarch64-elf.tar.xz
 
 **Simple Calculator:**
-For this project, you will write a small calculator. Your calculator will have the capability to do the following operations on 4-digit decimal numbers (result is bound to 4 digits):  
+
+TASK: For this project, you will write a small calculator. Your calculator will have the capability to do the following operations on 4-digit decimal numbers (result is bound to 4 digits):  
 
 - multiply  
 
