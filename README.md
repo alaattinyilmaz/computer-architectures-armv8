@@ -48,7 +48,7 @@ TASK: For this project, you will write a small calculator. Your calculator will 
 
 Your calculator.exe will continuously accept input, until you press the X button at any time.
 
-**Ackermann Function:**
+**Ackermann Function:**  
 http://mathworld.wolfram.com/AckermannFunction.html
 
 
